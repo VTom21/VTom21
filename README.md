@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VTom21
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning HTML,CSS,Python
 - 💞️ I’m looking to collaborate on colleagues
 - 📫 How to reach me: tamas.visegradi@gmail.com
 - my real name is Visegrádi Tamás
